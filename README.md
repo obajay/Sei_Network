@@ -1,4 +1,4 @@
-# Sei_Network
+# Guide install node - Sei_Network
 
 
 
